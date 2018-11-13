@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84c31a3e-4926-4fe9-be0d-a9881feb2d33" name="Default Changelist" comment="School project &quot;Online prodaja guma&quot;">
+      <change afterPath="$PROJECT_DIR$/../.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/.idea/ani-theme-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/1.app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/2.app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/448c34a56d699c29117adc64c43affeb.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/45c73723862c6fc5eb3d6961db2d71fb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/4b5a84aaf1c9485e060c503a0ff8cadb.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/674f50d287a8c48dc19ba404d20fe713.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/76a4f23c6be74fd309e0d0fd2c27a5de.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/7c87870ab40d63cfb8870c1f183f9939.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/89889688147bd7575d6327160d64e760.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/912ec66d7572ff821749319396470bde.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/af7ae505a9eed503f8b8e6982036873e.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/b06871f281fee6b241d60582ae9369b9.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/c4584a3be5e75b1595685a1798c50743.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/dfb02f8f6d0cedc009ee5887cc68f1f3.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/e18bbf611f2a2e43afc071aa2f4e1512.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/f4769f9bdb7466be65088239c12046d1.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/fa2772327f55d8198301fdb8bcfc8158.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/fee66e712a8a08eef5805a46892932ad.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/images/flat-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/app.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/base.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/.csscomb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/.csslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/badges.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/breadcrumbs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/button-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/carousel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/close.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/code.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/component-animations.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/dropdowns.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/glyphicons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/input-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/jumbotron.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/media.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/background-variant.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/border-radius.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/center-block.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/clearfix.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/gradients.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/grid-framework.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/hide-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/image.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/nav-divider.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/nav-vertical-align.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/opacity.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/progress-bar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/reset-filter.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/resize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/responsive-visibility.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/size.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/tab-focus.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/table-row.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/text-emphasis.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/text-overflow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/mixins/vendor-prefixes.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/modals.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/navbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/navs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/normalize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/pager.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/popovers.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/print.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/progress-bars.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/responsive-embed.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/responsive-utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/scaffolding.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/tables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/thumbnails.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/tooltip.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/type.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/less/wells.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/pages/dashboard.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/pages/login.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/transitions/all.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/transitions/avatar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/transitions/pages.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/common/styles/widgets/input-underline.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/components/common/AsyncElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/components/layouts/Base.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/components/layouts/Dashboard/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/components/pages/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/components/pages/dashboard/Overview/Overview.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/components/pages/dashboard/Overview/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/components/pages/dashboard/Reports/Reports.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/components/pages/dashboard/Reports/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/src/routers/routes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/webpack.local.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ani-theme-master/webpack.production.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitnami.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/de/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/de/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/de/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/de/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/de/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/access-phpmyadmin-remotely.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/access-phpmyadmin-remotely.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/access-phpmyadmin-remotely.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/activate-use-xdebug.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/activate-use-xdebug.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/activate-use-xdebug.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/auto-start-xampp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/auto-start-xampp.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/auto-start-xampp.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/backup-restore-mysql.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/backup-restore-mysql.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/backup-restore-mysql.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/change-mysql-temp-dir.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/change-mysql-temp-dir.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/change-mysql-temp-dir.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-use-tomcat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-use-tomcat.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-use-tomcat.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-vhosts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-vhosts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-vhosts.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-wildcard-subdomains.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-wildcard-subdomains.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/configure-wildcard-subdomains.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/create-framework-project-zf1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/create-framework-project-zf1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/create-framework-project-zf1.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/create-framework-project-zf2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/create-framework-project-zf2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/create-framework-project-zf2.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/deploy-git-app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/deploy-git-app.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/deploy-git-app.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/access-phpmyadmin-remotely/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/activate-use-xdebug/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/activate-use-xdebug/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/activate-use-xdebug/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/auto-start-xampp/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/backup-restore-mysql/image9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-use-tomcat/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-use-tomcat/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-use-tomcat/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-use-tomcat/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-use-tomcat/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-use-tomcat/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-use-tomcat/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-vhosts/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-vhosts/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-vhosts/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-vhosts/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-wildcard-subdomains/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-wildcard-subdomains/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-wildcard-subdomains/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/configure-wildcard-subdomains/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/create-framework-project-zf1/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/create-framework-project-zf1/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/create-framework-project-zf2/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/create-framework-project-zf2/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/create-framework-project-zf2/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/create-framework-project-zf2/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/create-framework-project-zf2/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/deploy-git-app/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/deploy-git-app/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/deploy-git-app/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/deploy-git-app/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/deploy-git-app/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/deploy-git-app/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/install-wordpress/image38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/reset-mysql-password/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/reset-mysql-password/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/reset-mysql-password/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/send-mail/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/send-mail/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/send-mail/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/transfer-files-ftp/image9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/troubleshoot-apache/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/troubleshoot-apache/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/troubleshoot-apache/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/troubleshoot-apache/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/troubleshoot-apache/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/troubleshoot-apache/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/troubleshoot-apache/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/troubleshoot-apache/image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/use-different-php-version/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/use-php-fcgi/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/use-sqlite/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/use-sqlite/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/images/use-sqlite/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/increase-php-file-upload-limit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/increase-php-file-upload-limit.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/increase-php-file-upload-limit.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/install-wordpress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/install-wordpress.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/install-wordpress.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/reset-mysql-password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/reset-mysql-password.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/reset-mysql-password.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/send-mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/send-mail.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/send-mail.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/transfer-files-ftp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/transfer-files-ftp.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/transfer-files-ftp.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/troubleshoot-apache.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/troubleshoot-apache.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/troubleshoot-apache.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-different-php-version.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-different-php-version.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-different-php-version.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-php-fcgi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-php-fcgi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-php-fcgi.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-sqlite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-sqlite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/docs/use-sqlite.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/es/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/es/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/es/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/es/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/es/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/fr/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/fr/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/fr/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/fr/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/fr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/hu/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/hu/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/hu/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/hu/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/hu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons-video-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons/beetailer-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons/elegantthemes-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons/rockettheme-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons/sugaroutfitters-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons/templatemonster-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons/themeforest-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons/woothemes-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/addons/wpmu-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/apple-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/bitnami-xampp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/bitnami-xampp/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/bitnami-xampp/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/bitnami-xampp/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/bitnami-xampp/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/bitnami-xampp/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/bitnami-xampp/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/bitnami-xampp/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/download-xampp-vm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/heartbleed-affected-osx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/heartbleed-affected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/heartbleed-fixed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/phpinfo-section-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/phpinfo-section-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-cakephp-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-manager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-network.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-php-finder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-php-output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-tray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/blog/xampp-vm-volumes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/fastly-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/fastly-logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/cn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/es.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/fr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/hu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/jp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/pl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/pt_br.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/ro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/ru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/tr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/ur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/zh_cn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/flags/zh_tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/linux-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/middleman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/pdf-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-linux-start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-download-installer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-launch-credentials.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-run-installer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-stack-manager-general.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-stack-manager-network.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-stack-manager-services.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-stack-manager-volumes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-stack-manager.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-macosx-wordpress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/screenshots/xampp-windows-start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/social-icons-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/social-icons-large@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/social-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/social-icons@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/sourceforge-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/sourceforge-logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/stack-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/stack-icons@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/stamps/stamp-173x38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/stamps/stamp-80x15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/stamps/stamp-88x31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/team/beltran-rueda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/team/daniel-lopez.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/team/kai-seidler.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/team/kay-vogelgesang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/team/paul-hinz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/twitter-bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/windows-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/xampp-cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/xampp-cloud@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/xampp-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/images/xampp-newsletter-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/it/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/it/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/it/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/it/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/it/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/javascripts/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/javascripts/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/jp/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/jp/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/jp/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/jp/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/jp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/phpinfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pl/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pl/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pl/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pl/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pt_br/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pt_br/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pt_br/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pt_br/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/pt_br/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ro/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ro/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ro/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ro/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ru/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ru/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ru/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ru/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ru/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/stylesheets/all-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/stylesheets/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/stylesheets/asciidoctor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/stylesheets/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/tr/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/tr/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/tr/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/tr/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/tr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ur/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ur/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ur/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ur/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/ur/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_cn/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_cn/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_cn/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_cn/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_cn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_tw/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_tw/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_tw/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_tw/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/zh_tw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.csslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.ht.router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.idea/drupal-8.6.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/INSTALL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.eslintrc.legacy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.eslintrc.passing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/CHANGELOG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/COPYRIGHT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/INSTALL.mysql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/INSTALL.pgsql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/INSTALL.sqlite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/INSTALL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/MAINTAINERS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/UPDATE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/core.api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/core.libraries.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/core.link_relation_types.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/core.services.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/drupalci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/globals.api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/AddCssCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/AfterCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/AjaxFormHelperTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/AjaxHelperTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/AjaxResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/AjaxResponseAttachmentsProcessor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/AlertCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/AppendCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/BaseCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/BeforeCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/ChangedCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/CloseDialogCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/CloseModalDialogCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/CommandInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/CommandWithAttachedAssetsInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/CommandWithAttachedAssetsTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/CssCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/DataCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/HtmlCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/InsertCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/InvokeCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/OpenDialogCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/OpenModalDialogCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/OpenOffCanvasDialogCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/PrependCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/RedirectCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/RemoveCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/ReplaceCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/RestripeCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/SetDialogOptionCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/SetDialogTitleCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/SettingsCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Ajax/UpdateBuildIdCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/AppRootFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/CoreServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Cron.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/CronInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/DestructableInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Diff/DiffFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/DrupalKernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/DrupalKernelInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/File/FileSystem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/File/FileSystemInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/File/MimeType/ExtensionMimeTypeGuesser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/File/MimeType/MimeTypeGuesser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/File/file.api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/BaseFormIdInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/ConfigFormBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/ConfigFormBaseTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/ConfirmFormBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/ConfirmFormHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/ConfirmFormInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/EnforcedResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/EnforcedResponseException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/EventSubscriber/FormAjaxSubscriber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/Exception/BrokenPostRequestException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormAjaxException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormAjaxResponseBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormAjaxResponseBuilderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormBuilderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormCacheInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormElementHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormErrorHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormErrorHandlerInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormState.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormStateDecoratorBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormStateInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormStateValuesTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormSubmitter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormSubmitterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/FormValidatorInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/OptGroup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/SubformState.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/SubformStateInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Form/form.api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/GeneratedLink.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/GeneratedNoLink.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/GeneratedUrl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/ClientFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableAccessDeniedHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableBadRequestHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableConflictHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableGoneHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableLengthRequiredHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableMethodNotAllowedHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableNotAcceptableHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableNotFoundHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheablePreconditionFailedHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheablePreconditionRequiredHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableServiceUnavailableHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableTooManyRequestsHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableUnauthorizedHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableUnprocessableEntityHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/Exception/CacheableUnsupportedMediaTypeHttpException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/HandlerStackConfigurator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/LinkRelationType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/LinkRelationTypeInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/LinkRelationTypeManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Http/TrustedHostsRequestFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Lock/LockBackendAbstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Lock/LockBackendInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Lock/PersistentDatabaseLockBackend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/PrivateKey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/SitePathFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/Drupal/Core/Url.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/lib/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/phpcs.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/rebuild.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/core/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/example.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drupal-8.6.2/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/module_table_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/module_table_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../public_html/database/2018_OOP3.obaveze.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work3/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-886152278">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="2263" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2263" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="820582349">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="html" value="257" />
+          <entry key="php" value="1071" />
+          <entry key="txt" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="259" />
+          <entry key="PHP" value="1069" />
+          <entry key="PLAIN_TEXT" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="4" />
+          <entry key="php" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="4" />
+          <entry key="PHP" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#p#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/item1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="110" lean-forward="true" selection-start-line="61" selection-start-column="69" selection-end-line="61" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/item2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="54" column="98" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/item3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/item4.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/item5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>discover</find>
+      <find>contain</find>
+      <find>center</find>
+      <find>container</find>
+      <find>chain</find>
+      <find>title</find>
+      <find>hero</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/css/contactus.css" />
+        <option value="$PROJECT_DIR$/item1.html" />
+        <option value="$PROJECT_DIR$/php/header.html" />
+        <option value="$PROJECT_DIR$/header1.php" />
+        <option value="$PROJECT_DIR$/php/footer.php" />
+        <option value="$PROJECT_DIR$/css/queries.css" />
+        <option value="$PROJECT_DIR$/item1.php" />
+        <option value="$PROJECT_DIR$/item2.php" />
+        <option value="$PROJECT_DIR$/item3.php" />
+        <option value="$PROJECT_DIR$/item4.php" />
+        <option value="$PROJECT_DIR$/item5.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/php/header.php" />
+        <option value="$PROJECT_DIR$/shop.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="prodajaguma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prodajaguma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prodajaguma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prodajaguma" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prodajaguma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prodajaguma" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\yebo\css\bootstrap" />
+      <recent name="C:\xampp\htdocs\yebo\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c31a3e-4926-4fe9-be0d-a9881feb2d33" name="Default Changelist" comment="" />
+      <created>1542046648976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542046648976</updated>
+      <workItem from="1542046650155" duration="14638000" />
+      <workItem from="1542094084324" duration="6715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21353000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16577181" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="School project &quot;Online prodaja guma&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="School project &quot;Online prodaja guma&quot;" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/contactus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/heroic-features.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa10560.932/startbootstrap-portfolio-item-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="114" selection-start-line="50" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="197" column="5" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="110" lean-forward="true" selection-start-line="61" selection-start-column="69" selection-end-line="61" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="54" column="98" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
